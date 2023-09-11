@@ -1,4 +1,19 @@
-site_name: obsidian-mkdocs template
+site_name: Knowledge Base
+nav:
+  - 'Home': 'index.md'
+  - 'Architecture': 'architecture/_index2023061502315555 Architecture.md'
+  - 'Programming': 'programming/_index_202305280024033 programming.md'
+  - 'Security':
+      - 'CIA Triad': 'security/2023041317275050 CIA Triad.md'
+      - 'Security principles': 'security/_index202304131834333 Security principles.md'
+      - 'XSS': 'security/2023042015372828 XSS.md'
+      - 'Cross site attacks': 'security/2023091202333636 Cross site attacks.md'
+      - 'SQL Injection': 'security/2023050422584646 SQL Injection.md'
+      - 'Command Injection': 'security/2023051521093838 Command Injection.md'
+      - 'Other security notes': 'security/2023091202351010 Other security notes.md'
+  - 'DEVOPS': 'devops/_index2023060121344242 DEVOPS.md'
+  - 'Tools': 'tools/_index2023042721164949 Tools.md'
+  - 'Tags': 'tags.md'
 
 theme:
     name: 'material'
@@ -50,7 +65,9 @@ markdown_extensions:
 
 plugins:
   - search
-  - roamlinks 
+  - roamlinks
+  - tags:
+      tags_file: tags.md
 
 
 extra_javascript:
