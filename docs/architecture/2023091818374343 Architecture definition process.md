@@ -9,6 +9,10 @@ This stages leads to creating architecture which must satisfy stakeholders's nee
 
 A good architecture definition process is one that leads to a good architecture, documented by an effective AD and can be realized in a time-efficient cost-effective manner.
 
+Architecture definition isn't just design.  
+From one side it is software design(solution space), working with developers, from other side it is requirement analysis(problem space). An architect needs to understand the needs of every one who has an interest in the architecture, to balance these needs and identify an acceptable set of tradeoffs  between these. [2](#references)
 
+You should not start to think about the solution until you understand the problem. 
 ## References
 1.  Software System Architecture Nick Rozanski,  Edin Woods (software-systems-architecture-rozanski-woods), p. 56
+2. Software System Architecture Nick Rozanski,  Edin Woods (software-systems-architecture-rozanski-woods), p. 58

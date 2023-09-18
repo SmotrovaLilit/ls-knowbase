@@ -11,7 +11,10 @@
 - [[2023080713361010 Viewpoint pitfalls]]
 - [[202308121539000 Architectural perspectives]]
 - [[2023091818374343 Architecture definition process]]
-- 
+- [[202309190150044 The Boundary between Requirements Analysis and Architecture Definition]]
+	- The note is about boundary between requirements analysts' and architects' job
+- [[202309190158044 The Boundary between Architecture Definition and Design]]
+	- The note is about boundary between developers' and architects' job
 ## Cloud
 - [[2023080900425050 Single region architecture]]
 - [[2023080900323333 Cloud platform regions vs availability zones]]
