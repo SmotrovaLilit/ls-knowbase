@@ -10,6 +10,7 @@
 - [[2023080502175252 Architectural context]]
 - [[2023080713361010 Viewpoint pitfalls]]
 - [[202308121539000 Architectural perspectives]]
+- [[2023091818374343 Architecture definition process]]
 - 
 ## Cloud
 - [[2023080900425050 Single region architecture]]
