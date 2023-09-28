@@ -15,10 +15,16 @@
 	- The note is about boundary between requirements analysts' and architects' job
 - [[202309190158044 The Boundary between Architecture Definition and Design]]
 	- The note is about boundary between developers' and architects' job
+- 
 ## Cloud
 - [[2023080900425050 Single region architecture]]
 - [[2023080900323333 Cloud platform regions vs availability zones]]
 - [[202308092227066 Homomorphic encryption]]
 - [[2023080900284343 Multi region architecture]]
+- [[2023092817065757 Monolith]]
+- [[202309281713011 Microservices]]
+- [[202309281730000 Transformation to microservices]]
+- [[2023092817434545 Container orchestration]]
+
 ##  Quality attributes
 - [[202308092204066 Availability]]
