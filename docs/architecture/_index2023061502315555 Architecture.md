@@ -26,5 +26,13 @@
 - [[202309281730000 Transformation to microservices]]
 - [[2023092817434545 Container orchestration]]
 
+### Kubernates
+- [[2023092900345353 Kubernates]]
+- [[202309290048099 Kubernates Architecture]]
+	- [[2023092920174444 K8s Control plane Node]]
+		- [[2023092918361010 Stacked and external  etcd topologies]]
+	- [[2023092920181919 K8s Worker node]]
+	- [[2023092920304040 K8s Networking Challenges]]
+
 ##  Quality attributes
 - [[202308092204066 Availability]]
