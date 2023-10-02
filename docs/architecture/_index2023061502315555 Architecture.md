@@ -33,6 +33,8 @@
 		- [[2023092918361010 Stacked and external  etcd topologies]]
 	- [[2023092920181919 K8s Worker node]]
 	- [[2023092920304040 K8s Networking Challenges]]
+- [[2023100215595959 K8s installation]]
+- [[202310021729022 K8s Minikube]]
 
 ##  Quality attributes
 - [[202308092204066 Availability]]
