@@ -14,11 +14,9 @@
 	- [[2023092816485959 OS Scheduler]]
 - [[2023092815074242 Golang GC]]
  
-
 ## Google
 - [[2023052117221414 Google form API]]
  
-
 ## Tools
 [[2023091901214646 Golang documentation of all dependencies]]
 [[2023091718014242 Golang benchmark]]

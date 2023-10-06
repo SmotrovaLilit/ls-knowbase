@@ -1,4 +1,4 @@
-# Kubernates Architecture
+# Kubernetes Architecture
 ![[Pasted image 20230929180730.png]]
 [[2023092920174444 K8s Control plane Node]]
 [[2023092920181919 K8s Worker node]]
