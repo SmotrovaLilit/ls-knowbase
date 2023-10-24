@@ -5,16 +5,20 @@ All cluster configuration data is saved to distributed key-value store independe
 
 ###  Control Plane Node Components
 - API Server(**kube-apiserver**)
+	- All internal and external call are handled via API server
+	- Each API call goes through: authentication, authorization, and several admission controllers
 	- can be scale horizontally
 	- supports addition of custom  API Servers
 - Scheduler( **kube-scheduler**)
-	-  highly configurable and customizable through plugins, scheduling policies, and profiles.
+	- determines which node will host a Pod 
+	- highly configurable and customizable through plugins, scheduling policies, and profiles.
 	- supports addition of custom schedulers
 - Controller Managers
 	-  The **kube-controller-manager** operates controllers or operators that respond to various events such as node unavailability, ensuring the desired container pod counts, and creating endpoints, service accounts, and API access tokens when needed.
 	-   The **cloud-controller-manager** operates controllers or operators that handle interactions with the cloud provider's infrastructure. These controllers manage tasks such as handling node unavailability, managing storage volumes provided by a cloud service, and overseeing load balancing and routing.
 - Key-Value Data Store [**etcd**](https://etcd.io/)
-	-  only the API Server is able to communicate with the etcd data store.
+		- storage for sluster state 
+	- only the API Server is able to communicate with the etcd data store.
 	- **etcdctl** - etcd's CLI management tool.
 	- etcd is based on the [Raft Consensus Algorithm](https://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14) which allows a collection of machines to work as a coherent group that can survive the failures of some of its members.
 	- etcd is also used to store configuration details such as subnets, ConfigMaps, Secrets, etc.
@@ -26,3 +30,4 @@ All cluster configuration data is saved to distributed key-value store independe
 
 ## References
 1. LinuxFoundationX LFS158x. Chapter 4. Kubernetes Architecture
+2.  https://trainingportal.linuxfoundation.org/courses/kubernetes-for-developers-lfd259 Kubernetes Architecture

@@ -25,6 +25,15 @@
 - [[202309281713011 Microservices]]
 - [[202309281730000 Transformation to microservices]]
 - [[2023092817434545 Container orchestration]]
+
+## Microservices patterns and principles
+- [[2023101218412323 Message broker]]
+- [[2023101221441616  Event Driven Architecture challenges]]
+- [[2023101221505757 Asynchronous communication vs synchronous communication]]
+- [[2023101222132727 Saga]]
+- [[202310131459022 API composer]]
+- [[2023101316023838 CQRS]]
+- 
 ## Other
 - [[2023052612311111 Kubernetes]]
 - [[2023100616311515 Analyses patterns]]

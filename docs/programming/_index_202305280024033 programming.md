@@ -13,6 +13,7 @@
 - [[2023100220344747 Go Scheduler]]
 	- [[2023092816485959 OS Scheduler]]
 - [[2023092815074242 Golang GC]]
+- [[2023101615195050 Pprof]]
  
 ## Google
 - [[2023052117221414 Google form API]]
