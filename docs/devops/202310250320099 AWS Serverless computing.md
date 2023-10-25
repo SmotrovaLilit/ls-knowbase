@@ -1,0 +1,32 @@
+# AWS Serverless computing
+- Computing with EC2 instances(virtual servers). 
+	- You need to do:
+		- Provision instances (virtual servers).
+		- Upload your code.
+		- Continue to manage the instances while your application is running.
+	- When choose it:
+		- You need full access to the OS
+		- Host traditional applications
+- **AWS Lambda**: a service that lets you run code without needing to provision or manage servers. 
+	- You need to do:
+		- Upload your code.
+		- Set your code to trigger
+		- Lambda runs your code only when triggered.
+		- You pay only for the compute time that you consume
+	- When chose it:
+		- Host short running functions
+		- Service-oriented applications
+		- Event Driven applications
+		- And you don't want to manage servers and provision
+- **Amazon Elastic Container Service (Amazon ECS)**: supports docker container and allows to use API calls to launch and stop Docker-enabled applications.
+	- You need to manage instances EC2
+	- When use it
+		- You want to run docker container based workloads on AWS and use Amazon ECS as an orchestration. 
+- **Amazon Elastic Kubernetes Service (Amazon EKS)**: supports k8s on AWS
+	- You need to manage instances EC2
+	-  When use it
+		- You can choose it instead of ECS as an orchestration tool
+- **AWS Fargate**: AWS Fargate manages your server infrastructure for you and works with both Amazon ECS and Amazon EKS.
+	- You can use it instead of EKS or ECS when you don't want to manage EC2 instances
+## References
+1. [https://explore.skillbuilder.aws/learn/course/134/play/85854/aws-cloud-practitioner-essentials](https://explore.skillbuilder.aws/learn/course/134/play/85854/aws-cloud-practitioner-essentials) Module 2
