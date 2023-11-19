@@ -21,6 +21,8 @@
 ## Tools
 [[2023091901214646 Golang documentation of all dependencies]]
 [[2023091718014242 Golang benchmark]]
+
+## [[202311162349033  Data Structures and Algorithms]]
 ## Other
 - [[2023083112213333 Quotes]]
 - [[2023082313263434 Literature list]]
