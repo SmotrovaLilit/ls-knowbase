@@ -1,6 +1,4 @@
-# Amazon Elastic Compute Cloud
-
-## Instance types
+# Amazon EC2 Instance type families
 - General purpose instances: You can use it when you application needs memory, compute, networking resources roughly equivalent, because the application does not require optimisation in any single resource area.
 	- application servers
 	- gaming servers
