@@ -17,6 +17,7 @@
 	- The note is about boundary between developers' and architects' job
 - 
 ## Cloud
+- [[2023102714502828 Advantages of cloud]]
 - [[2023080900425050 Single region architecture]]
 - [[2023080900323333 Cloud platform regions vs availability zones]]
 - [[202308092227066 Homomorphic encryption]]
@@ -37,6 +38,9 @@
 ## Other
 - [[2023052612311111 Kubernetes]]
 - [[2023100616311515 Analyses patterns]]
+- [[2023111417413434 Relational databases]]
+- 
 ##  Quality attributes
 - [[202308092204066 Availability]]
+- 
 
