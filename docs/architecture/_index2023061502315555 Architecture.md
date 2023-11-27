@@ -41,6 +41,9 @@
 - [[2023111417413434 Relational databases]]
 - 
 ##  Quality attributes
+- [[2023112801255959 Scalability]]
 - [[202308092204066 Availability]]
-- 
+- [[2023112801224646 Reliability]]
+- [[2023112801262626 Efficiency]]
+- [[2023112801264444 Maintainability]]
 
