@@ -40,12 +40,15 @@
 - [[202310131459022 API composer]]
 - [[2023112901085252 API gateway]]
 - [[2023101316023838 CQRS]]
-- 
+
+## Databases
+- [[2023111417413434 Relational and NoSQL databases]]
+
+
 ## Other
 - [[2023052612311111 Kubernetes]]
 - [[2023100616311515 Analyses patterns]]
-- [[2023111417413434 Relational databases]]
-- 
+
 ##  Quality attributes
 - [[2023112801255959 Scalability]]
 - [[202308092204066 Availability]]
