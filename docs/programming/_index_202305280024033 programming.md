@@ -16,6 +16,7 @@
 - [[2023092815074242 Golang GC]]
 - [[2023101615195050 Pprof]]
 - [[2024051409573434 Golang - math or crypto rand]]
+- [[2024051516372121 Go embed]]
  
 ## Google
 - [[2023052117221414 Google form API]]
