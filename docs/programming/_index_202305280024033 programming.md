@@ -25,6 +25,9 @@
 [[2023091901214646 Golang documentation of all dependencies]]
 [[2023091718014242 Golang benchmark]]
 
+## Git
+- [[2024052210264444 Set up git config name and email for work projects]]
+
 ## [[202311162349033  Data Structures and Algorithms]]
 
 ## Nodejs
