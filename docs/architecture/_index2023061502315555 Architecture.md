@@ -44,7 +44,6 @@
 ## Databases
 - [[2023111417413434 Relational and NoSQL databases]]
 
-
 ## Other
 - [[2023052612311111 Kubernetes]]
 - [[2023100616311515 Analyses patterns]]
@@ -56,3 +55,17 @@
 - [[2023112801262626 Efficiency]]
 - [[2023112801264444 Maintainability]]
 
+## DDD
+1. For the beginners:
+	1. https://threedots.tech/post/ddd-lite-in-go-introduction/#thats-great-but-do-you-have-any-evidence-it-works
+2. DDD patterns are used in big companies
+	1. Amazon - https://docs.aws.amazon.com/prescriptive-guidance/latest/hexagonal-architectures/best-practices.html
+	2. ThreeDotsLab - https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example
+	3. Microsoft - https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice
+
+
+## Arguments against developing own authentication solutions
+- Go with the domain. https://threedots.tech/go-with-the-domain/?utm_source=topbar chapter 4 Authentication using Firebase . You shouldn’t reinvent the wheel
+
+## Arguments to use Grpc
+- Go with the domain. https://threedots.tech/go-with-the-domain/?utm_source=topbar chapter 3 gRPC communication on Google Cloud Run Why gRPC?

@@ -15,7 +15,7 @@ Buildah, Podman, containerd
 
 ## Challenges
 -  continuous integration pipeline
-- cluster of machines
+-  cluster of machines
 -  you must be able to perform rolling updates and rollbacks
 -  tear down the resource when no longer needed
 -  flexible, scalable, and easy-to-manage network and storage

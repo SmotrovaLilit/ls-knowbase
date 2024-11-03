@@ -1,5 +1,10 @@
 #  Programming
 ## Golang:
+- [https://go.dev/wiki/CodeReviewComments](https://go.dev/wiki/CodeReviewComments)
+- [https://google.github.io/styleguide/go/decisions](https://google.github.io/styleguide/go/decisions)
+- [https://go.dev/doc/effective_go](https://go.dev/doc/effective_go)
+- [https://go.dev/wiki/TestComments](https://go.dev/wiki/TestComments)
+- [package naming](https://dave.cheney.net/2019/01/08/avoid-package-names-like-base-util-or-common)
 - [[2024050517231313 update go versions]]
 - [[2023091419102828 GO's strength]]
 - [[202309141916011 GO's Weaknesses]]
@@ -17,7 +22,14 @@
 - [[2023101615195050 Pprof]]
 - [[2024051409573434 Golang - math or crypto rand]]
 - [[2024051516372121 Go embed]]
- 
+
+## Golang Optimisation
+-  [Boosting Performance of Go Apps with Optimizations](https://golangweekly.com/link/155368/ad2e1e777c "www.youtube.com")
+
+## Golang debugging
+- [go-size-analyzer](https://golangweekly.com/link/155094/ad2e1e777c)
+- 
+
 ## Google
 - [[2023052117221414 Google form API]]
  
@@ -32,9 +44,13 @@
 
 ## Nodejs
 - Installing nodejs [[202405051800077 installing nodejs]]
+## Databases
+- Listen/Notify Postgres
+	-  [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
+- 
+- 
 ## Other
 - [[2023083112213333 Quotes]]
-- [[2024050610125656 git config  for different accounts]]
 - [[2023082313263434 Literature list]]
 
 

@@ -11,7 +11,6 @@ From Google borg:
 - IP-per-Pod
 - Services
 - Labels.
-Kubernetes offers remarkable portability, allowing deployment in various environments, including local or remote Virtual Machines, bare metal, and across a range of cloud setups, be it public, private, hybrid, or multi-cloud. Additionally, Kubernetes can be extended with custom resources, operators, APIs, scheduling rules, or plugins to enhance its functionality.
 
 ## Features
 - **Automatic bin packing**
