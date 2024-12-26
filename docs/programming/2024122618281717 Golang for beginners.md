@@ -6,10 +6,10 @@
 - [Golang map](https://www.practical-go-lessons.com/chap-22-maps#fnref1)
 - [Slices](https://go.dev/blog/slices-intro)
 - Garbage collector
-	- https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html
-	- https://go.dev/doc/gc-guide
+	- [https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html](https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html)
+	- [https://go.dev/doc/gc-guide](https://go.dev/doc/gc-guide)
 - [Linters](https://github.com/golangci/golangci-lint)
 - Design
-	- https://threedots.tech/
+	- [https://threedots.tech/](https://threedots.tech/)
 - Books
 	- [Go in practice](https://www.amazon.de/-/en/Matt-Butcher/dp/1633430073)
