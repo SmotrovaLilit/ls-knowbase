@@ -1,4 +1,9 @@
 # Relational and NoSQL databases
+## Choose Non-relational when
+- You  need super-low latency(or response time).  < 1ms, usually 50-200ms
+- Your data is unstructured, you do not have any relational data.  (text, images, log files, data in social networks)
+- You only need to serialise and deserialise data (JSON, XML, YAML, etc.).  For example, IoT. 
+- You need to store a massive amount of data. (TB, PB) Netflix, YouTube.  Cassandra, Bigtable
 ## Relational databases
 ✅ Complex SQL, clear relationships between your data
 ✅ Reduced redundancy. you don't need save the same data in different tables, you can use reference. 
@@ -30,3 +35,7 @@ For example, in Postgres multi-master replication isn't supported by default. Ho
 ## References
 1. [AWS course](https://explore.skillbuilder.aws/learn/course/external/view/elearning/1851/aws-technical-essentials?da=sec&sec=prep) Module 5
 2. [System Design Interview Course](https://www.tryexponent.com/courses/system-design-interview/fundamentals-system-design/sql-nosql)
+3. [What The Heck Are You Actually Using NoSQL For](https://highscalability.com/what-the-heck-are-you-actually-using-nosql-for/)
+
+
+4. ![[System Design Interview An Insiders Guide by Alex Xu (1).pdf]]
