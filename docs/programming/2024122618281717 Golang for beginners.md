@@ -1,0 +1,15 @@
+- [Golang tour](https://go.dev/tour/welcome/1)
+- [Code review comments](https://go.dev/wiki/CodeReviewComments)
+- [Effective go](https://go.dev/doc/effective_go)
+- [Go libraries](https://github.com/uhub/awesome-go)
+- [Understanding golang concurency](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html)
+- [Golang map](https://www.practical-go-lessons.com/chap-22-maps#fnref1)
+- [Slices](https://go.dev/blog/slices-intro)
+- Garbage collector
+	- https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html
+	- https://go.dev/doc/gc-guide
+- [Linters](https://github.com/golangci/golangci-lint)
+- Design
+	- https://threedots.tech/
+- Books
+	- [Go in practice](https://www.amazon.de/-/en/Matt-Butcher/dp/1633430073)

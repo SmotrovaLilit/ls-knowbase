@@ -1,5 +1,7 @@
 #  Programming
 ## Golang:
+- [[2024122618281717 Golang for beginners]]
+- [https://github.com/golang-standards/project-layout](https://github.com/golang-standards/project-layout)
 - [https://go.dev/wiki/CodeReviewComments](https://go.dev/wiki/CodeReviewComments)
 - [https://google.github.io/styleguide/go/decisions](https://google.github.io/styleguide/go/decisions)
 - [https://go.dev/doc/effective_go](https://go.dev/doc/effective_go)
@@ -19,7 +21,7 @@
 - [[2023100220344747 Go Scheduler]]
 	- [[2023092816485959 OS Scheduler]]
 - [[2023092815074242 Golang GC]]
-- [[2023101615195050 Pprof]]
+- [[2023101615195050 Pprof and trace]]
 - [[2024051409573434 Golang - math or crypto rand]]
 - [[2024051516372121 Go embed]]
 

@@ -30,7 +30,8 @@
 ## Architecture patterns
 - [[2023112900182121 Load balancer]]
 - [[2023112900375454 CDN]]
-- 
+- [[202411031933033 Cache strategies]]
+- [[2023112901164444 CAP theorem]]
 
 ## Microservices patterns and principles
 - [[2023101218412323 Message broker]]
@@ -47,6 +48,9 @@
 ## Other
 - [[2023052612311111 Kubernetes]]
 - [[2023100616311515 Analyses patterns]]
+- [[2024110319175151 Scaling]]
+- [[2024110320023030 Stateful vs Stateless servers]]
+- [[2024110320081010 multi-data center setup]]
 
 ##  Quality attributes
 - [[2023112801255959 Scalability]]
