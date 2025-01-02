@@ -5,6 +5,7 @@
 - [[_index2023050100295353 Security]]
 - [[_index2023060121344242 DEVOPS]]
 - [[_index2023042721164949 Tools]]
+- [[ls-knowbase/docs/accounting/index|index]]
 
 
 
