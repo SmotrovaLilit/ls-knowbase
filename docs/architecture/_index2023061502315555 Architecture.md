@@ -73,3 +73,10 @@
 
 ## Arguments to use Grpc
 - Go with the domain. https://threedots.tech/go-with-the-domain/?utm_source=topbar chapter 3 gRPC communication on Google Cloud Run Why gRPC?
+
+## Documentation
+- [https://github.com/terrastruct/d2](https://github.com/terrastruct/d2) - is a diagram scripting language that turns text to diagrams.
+
+## Streaming
+- [https://github.com/bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+- [https://github.com/navidrome/navidrome](https://github.com/navidrome/navidrome) -  Personal Streaming Service

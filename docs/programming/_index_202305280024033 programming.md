@@ -25,6 +25,8 @@
 - [[2024051409573434 Golang - math or crypto rand]]
 - [[2024051516372121 Go embed]]
 
+## Golang CRM
+- [https://github.com/pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
 ## Golang Optimisation
 -  [Boosting Performance of Go Apps with Optimizations](https://golangweekly.com/link/155368/ad2e1e777c "www.youtube.com")
 
@@ -50,7 +52,12 @@
 - Listen/Notify Postgres
 	-  [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
 - 
-- 
+
+## Local development
+- [https://github.com/daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
+- [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf) - terminal
+## AI
+- [olama](https://github.com/ollama/ollama)
 ## Other
 - [[2023083112213333 Quotes]]
 - [[2023082313263434 Literature list]]
