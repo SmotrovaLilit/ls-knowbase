@@ -3,7 +3,7 @@ tags:
   - cloud
 ---
 
-# Cloud platform regions vs availability zones
+# Cloud platform regions vs availability zones (Multi region architecture)
 
 Cloud platform regions - it is geographic location where cloud provider's data centers are located.
 Each region operates independently.
