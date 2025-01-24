@@ -1,4 +1,7 @@
+# Analyses patterns Party Model
+
 ## Using model party
+
 ![[Pasted image 20231006154605.png]]
 
 Instead of:

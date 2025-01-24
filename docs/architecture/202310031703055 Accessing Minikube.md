@@ -1,3 +1,5 @@
+# Accessing minikube
+
 ## APIs:
 - /api/v1 - core group:  Pods, Services, Nodes, Namespaces, ConfigMaps, Secrets, etc
 - **/apis/\$NAME/\$VERSION** - named group

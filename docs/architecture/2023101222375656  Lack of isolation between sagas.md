@@ -10,10 +10,13 @@ Example:
 1. The first step of the Create Order Saga creates an Order.
 2. While that saga is executing, the Cancel Order Saga cancels the Order.
 3. The final step of the Create Order Saga approves the Order.
+
+💡We can use READ FOR UPDATE and allow to cancel only approved orders. Solution depend on a business case.
+
 ###  Dirty reads
 Cansel saga: 
 1. ConsumerService—Increase the available credit.  
-2. Order Service—Change the state of the Order to cancelled. 
+2. Order Service—Change the state of the Order to cancel. 
 3. DeliveryService—Cancel the delivery.
 
 Example of scenario:
@@ -23,5 +26,6 @@ Example of scenario:
 
 Create Order Saga does a dirty read of the available credit
 [[2023101300172828  Countermeasures for handling the lack of isolation]]
+
 ## References
 1.  Microservices patterns by Chris Richardson, chapter 4.3
