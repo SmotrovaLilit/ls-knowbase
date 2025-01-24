@@ -4,6 +4,7 @@
 - [Go libraries](https://github.com/uhub/awesome-go)
 - [Understanding golang concurency](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html)
 - [Golang map](https://www.practical-go-lessons.com/chap-22-maps#fnref1)
+- in Go 1.24 map internal implementation has been changed to [Swiss tables](https://abseil.io/about/design/swisstables)
 - [Slices](https://go.dev/blog/slices-intro)
 - Garbage collector
 	- [https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html](https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html)

@@ -1,6 +1,7 @@
 #  Programming
 ## Golang:
 - [[2024122618281717 Golang for beginners]]
+- [202306060251099 Go versions.md](202306060251099%20Go%20versions.md)
 - [https://github.com/golang-standards/project-layout](https://github.com/golang-standards/project-layout)
 - [https://go.dev/wiki/CodeReviewComments](https://go.dev/wiki/CodeReviewComments)
 - [https://google.github.io/styleguide/go/decisions](https://google.github.io/styleguide/go/decisions)
