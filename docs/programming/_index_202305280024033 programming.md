@@ -1,6 +1,7 @@
 #  Programming
 ## Golang:
 - [[2024122618281717 Golang for beginners]]
+- [Rust vs Go](https://bitfieldconsulting.com/posts/rust-vs-go)
 - [202306060251099 Go versions.md](202306060251099%20Go%20versions.md)
 - [https://github.com/golang-standards/project-layout](https://github.com/golang-standards/project-layout)
 - [https://go.dev/wiki/CodeReviewComments](https://go.dev/wiki/CodeReviewComments)
@@ -49,16 +50,20 @@
 
 ## Nodejs
 - Installing nodejs [[202405051800077 installing nodejs]]
+
 ## Databases
 - Listen/Notify Postgres
 	-  [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
 - [2024051516322222 reading big data from db.md](2024051516322222%20reading%20big%20data%20from%20db.md)
+- [2024122618271818 Transactions.MD](2024122618271818%20Transactions.MD)
 
 ## Local development
 - [https://github.com/daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
 - [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf) - terminal
+
 ## AI
 - [olama](https://github.com/ollama/ollama)
+
 ## Other
 - [[2023083112213333 Quotes]]
 - [[2023082313263434 Literature list]]

@@ -1,0 +1,13 @@
+- https://cekrem.github.io/posts/clean-architecture-and-plugins-in-go/
+- https://netflixtechblog.com/title-launch-observability-at-netflix-scale-19ea916be1ed
+- https://threedots.tech/post/the-over-engineering-pendulum/
+- https://threedots.tech/post/watermill-1-4/
+- https://threedots.tech/post/best-go-framework/
+- https://threedots.tech/post/auto-generated-c4-architecture-diagrams-in-go/
+- https://threedots.tech/post/safer-enums-in-go/
+- https://threedots.tech/post/repository-secure-by-design/
+- https://threedots.tech/post/microservices-test-architecture/
+- add pluses to 2023092817065757 Monolith.md
+- fix 2023100616313737 Analyses Patterns Hierarchy.md
+- add panda and nats here - 2023101218412323 Message broker.md
+- find better example for dirty read в 2023101222375656  Lack of isolation between sagas.md
